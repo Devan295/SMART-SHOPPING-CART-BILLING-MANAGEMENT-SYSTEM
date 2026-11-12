@@ -1,0 +1,6 @@
+# MySQL Database Configuration Template
+# Copy this file to db.properties and set your MySQL credentials.
+db.url=jdbc:mysql://localhost:3306/smart_cart_db?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.user=root
+db.password=your_password_here
+
